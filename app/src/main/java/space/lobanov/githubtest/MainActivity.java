@@ -15,6 +15,7 @@ import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
 
+    private String dambul = "dmbul";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
